@@ -11,7 +11,7 @@ Last Updated on 2020-10-19. md5sum: fac7fe1b4e048c81ef88874334b73534
 ## State Two
 
 1. [Tsinghua Cloud Download](https://cloud.tsinghua.edu.cn/f/be5921ec670b4beda993/)
-2. [Google Drive Download](#)
+2. [Google Drive Download](https://drive.google.com/file/d/1l7m-gdnaqIHveWrT-JLDyEUSA8QzPvZO/view?usp=sharing)
 
 Last Updated on 2021-03-02. md5sum: 82990dbf578cf304a4e98c5573d2fd9b
 
